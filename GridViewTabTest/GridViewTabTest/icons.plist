@@ -7,7 +7,7 @@
 		<key>tag</key>
 		<string></string>
 		<key>title</key>
-		<string>1111</string>
+		<string>cell1</string>
 		<key>name</key>
 		<string>5.png</string>
 	</dict>
@@ -16,7 +16,7 @@
 		<key>tag</key>
 		<string></string>
 		<key>title</key>
-		<string>hello</string>
+		<string>cell2</string>
 		<key>name</key>
 		<string>1.png</string>
 	</dict>
@@ -25,7 +25,7 @@
 		<key>tag</key>
 		<string>2</string>
 		<key>title</key>
-		<string>1312312</string>
+		<string>cell3</string>
 		<key>name</key>
 		<string>2.png</string>
 	</dict>
@@ -34,7 +34,7 @@
 		<key>tag</key>
 		<string></string>
 		<key>title</key>
-		<string>hs</string>
+		<string>cell4</string>
 		<key>name</key>
 		<string>3.png</string>
 	</dict>
@@ -43,7 +43,7 @@
 		<key>tag</key>
 		<string></string>
 		<key>title</key>
-		<string>tt</string>
+		<string>cell5</string>
 		<key>name</key>
 		<string>4.png</string>
 	</dict>
@@ -52,7 +52,7 @@
 		<key>tag</key>
 		<string></string>
 		<key>title</key>
-		<string>6tit</string>
+		<string>cell6</string>
 		<key>name</key>
 		<string>5.png</string>
 	</dict>
@@ -61,7 +61,7 @@
 		<key>tag</key>
 		<string></string>
 		<key>title</key>
-		<string>last</string>
+		<string>cell7</string>
 		<key>name</key>
 		<string>7.png</string>
 	</dict>
